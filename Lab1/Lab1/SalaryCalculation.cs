@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
-    internal class SalaryCalculation
-    {
-    }
+    public delegate double SalaryCalculation(double salary, string position);
 }
+
+

@@ -84,29 +84,5 @@ namespace Lab1
                 }
             }
         }
-
-        public Position GetPosition(string msg)
-        {
-            while (true)
-            {
-                try
-                {
-                    Position[] positionList = (Position[])Enum.GetValues(typeof(Position));
-                    int input = this.GetInt(msg, 1, positionList.Length);
-                    
-                    foreach (Position position in positionList)
-                    {
-                        if (input == (int) position)
-                        {
-                            return position;
-                        }
-                    }
-                }
-                catch
-                {
-
-                }
-            }
-        }
     }
 }

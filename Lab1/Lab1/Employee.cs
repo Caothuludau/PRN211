@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics.Metrics;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -12,7 +13,19 @@ namespace Lab1
         public int id { get; set; }
         public string? name { get; set; }
         public double salary { get; set; }
-        public Position position { get; set; }
+        public string? position { get; set; }
+
+        public Employee()
+        {
+            
+        }
+        public Employee(int id, string? name, double salary, string? position)
+        {
+            this.id = id;
+            this.name = name;
+            this.salary = salary;
+            this.position = position;
+        }
 
         public void Input()
         {
@@ -20,25 +33,36 @@ namespace Lab1
             id = val.GetInt("Enter Employee's ID: ", 0, 9999);
             name = val.GetStringNotNull("Enter Employee's Name: ");
             salary = val.GetDouble("Enter Salary for this Employee: ", 0, 99999);
-            position = val.GetPosition("Enter Employee's Position: " + PositionToString());
-        }
-
-        public void Display(SalaryCaculation delobj)
-        {
+            position = val.GetStringNotNull("Enter Employee's Position: ");
             
         }
+        
 
-        public string PositionToString()
+        public void Display(SalaryCalculation delobj)
         {
-            string positionString = "";
-            Position[] positions = (Position[])Enum.GetValues(typeof(Position));
-            
-            foreach (Position position in positions)
+            double salaryByYear = delobj(this.salary, this.position);
+            Console.WriteLine("{0,-20} {1,-20} {2,-20} {3,-20}", "Employee ID", "Employee's Name", "Position", "SalaryByYear");
+            Console.WriteLine("{0,-20} {1,-20} {2,-20} {3,-20}", this.id, this.name, this.position, salaryByYear);
+        }
+
+        public void DisplayInList(SalaryCalculation delobj)
+        {
+            double salaryByYear = delobj(this.salary, this.position);
+            Console.WriteLine("{0,-20} {1,-20} {2,-20} {3,-20} {4,-20}", this.id, this.name, this.salary, this.position, salaryByYear);
+        }
+
+        public double SalaryByYear()
+        {
+            SalaryCalculation delobj = delegate (double salary, string position)
             {
-                positionString = positionString + ($"\n{(int)position} for {(position)}" );
-            }
-
-            return positionString;
+                if (this.position == "Manager")
+                    return  salary * 16;
+                else if (this.position == "Developer")
+                    return  salary * 14;
+                else
+                    return  salary * 12;
+            };
+            return delobj(this.salary, this.position);
         }
     }
 }
