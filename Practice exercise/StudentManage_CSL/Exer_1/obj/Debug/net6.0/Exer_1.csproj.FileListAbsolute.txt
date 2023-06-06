@@ -1,0 +1,15 @@
+D:\PRN211\Exer_1\Exer_1\obj\Debug\net6.0\Exer_1.csproj.AssemblyReference.cache
+D:\PRN211\Exer_1\Exer_1\obj\Debug\net6.0\Exer_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Exer_1\Exer_1\obj\Debug\net6.0\Exer_1.AssemblyInfoInputs.cache
+D:\PRN211\Exer_1\Exer_1\obj\Debug\net6.0\Exer_1.AssemblyInfo.cs
+D:\PRN211\Exer_1\Exer_1\obj\Debug\net6.0\Exer_1.csproj.CoreCompileInputs.cache
+D:\PRN211\Exer_1\Exer_1\bin\Debug\net6.0\Exer_1.exe
+D:\PRN211\Exer_1\Exer_1\bin\Debug\net6.0\Exer_1.deps.json
+D:\PRN211\Exer_1\Exer_1\bin\Debug\net6.0\Exer_1.runtimeconfig.json
+D:\PRN211\Exer_1\Exer_1\bin\Debug\net6.0\Exer_1.dll
+D:\PRN211\Exer_1\Exer_1\bin\Debug\net6.0\Exer_1.pdb
+D:\PRN211\Exer_1\Exer_1\obj\Debug\net6.0\Exer_1.dll
+D:\PRN211\Exer_1\Exer_1\obj\Debug\net6.0\refint\Exer_1.dll
+D:\PRN211\Exer_1\Exer_1\obj\Debug\net6.0\Exer_1.pdb
+D:\PRN211\Exer_1\Exer_1\obj\Debug\net6.0\Exer_1.genruntimeconfig.cache
+D:\PRN211\Exer_1\Exer_1\obj\Debug\net6.0\ref\Exer_1.dll

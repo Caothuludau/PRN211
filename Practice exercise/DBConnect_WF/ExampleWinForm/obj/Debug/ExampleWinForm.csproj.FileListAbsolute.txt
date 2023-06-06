@@ -1,0 +1,11 @@
+D:\PRN211\ExampleWinForm\ExampleWinForm\bin\Debug\ExampleWinForm.exe.config
+D:\PRN211\ExampleWinForm\ExampleWinForm\bin\Debug\ExampleWinForm.exe
+D:\PRN211\ExampleWinForm\ExampleWinForm\bin\Debug\ExampleWinForm.pdb
+D:\PRN211\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.csproj.AssemblyReference.cache
+D:\PRN211\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.csproj.SuggestedBindingRedirects.cache
+D:\PRN211\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.Form1.resources
+D:\PRN211\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.Properties.Resources.resources
+D:\PRN211\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.csproj.GenerateResource.cache
+D:\PRN211\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.csproj.CoreCompileInputs.cache
+D:\PRN211\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.exe
+D:\PRN211\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.pdb

@@ -1,0 +1,15 @@
+D:\PRN211\Getting Started C#\Getting Started C#\bin\Debug\net6.0\Getting Started C#.exe
+D:\PRN211\Getting Started C#\Getting Started C#\bin\Debug\net6.0\Getting Started C#.deps.json
+D:\PRN211\Getting Started C#\Getting Started C#\bin\Debug\net6.0\Getting Started C#.runtimeconfig.json
+D:\PRN211\Getting Started C#\Getting Started C#\bin\Debug\net6.0\Getting Started C#.dll
+D:\PRN211\Getting Started C#\Getting Started C#\bin\Debug\net6.0\Getting Started C#.pdb
+D:\PRN211\Getting Started C#\Getting Started C#\obj\Debug\net6.0\Getting Started C#.csproj.AssemblyReference.cache
+D:\PRN211\Getting Started C#\Getting Started C#\obj\Debug\net6.0\Getting Started C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Getting Started C#\Getting Started C#\obj\Debug\net6.0\Getting Started C#.AssemblyInfoInputs.cache
+D:\PRN211\Getting Started C#\Getting Started C#\obj\Debug\net6.0\Getting Started C#.AssemblyInfo.cs
+D:\PRN211\Getting Started C#\Getting Started C#\obj\Debug\net6.0\Getting Started C#.csproj.CoreCompileInputs.cache
+D:\PRN211\Getting Started C#\Getting Started C#\obj\Debug\net6.0\Getting Started C#.dll
+D:\PRN211\Getting Started C#\Getting Started C#\obj\Debug\net6.0\refint\Getting Started C#.dll
+D:\PRN211\Getting Started C#\Getting Started C#\obj\Debug\net6.0\Getting Started C#.pdb
+D:\PRN211\Getting Started C#\Getting Started C#\obj\Debug\net6.0\Getting Started C#.genruntimeconfig.cache
+D:\PRN211\Getting Started C#\Getting Started C#\obj\Debug\net6.0\ref\Getting Started C#.dll

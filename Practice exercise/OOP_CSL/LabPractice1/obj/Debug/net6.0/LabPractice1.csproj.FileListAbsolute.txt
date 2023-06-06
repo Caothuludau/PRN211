@@ -1,0 +1,15 @@
+D:\PRN211\LabPractice1\LabPractice1\bin\Debug\net6.0\LabPractice1.exe
+D:\PRN211\LabPractice1\LabPractice1\bin\Debug\net6.0\LabPractice1.deps.json
+D:\PRN211\LabPractice1\LabPractice1\bin\Debug\net6.0\LabPractice1.runtimeconfig.json
+D:\PRN211\LabPractice1\LabPractice1\bin\Debug\net6.0\LabPractice1.dll
+D:\PRN211\LabPractice1\LabPractice1\bin\Debug\net6.0\LabPractice1.pdb
+D:\PRN211\LabPractice1\LabPractice1\obj\Debug\net6.0\LabPractice1.csproj.AssemblyReference.cache
+D:\PRN211\LabPractice1\LabPractice1\obj\Debug\net6.0\LabPractice1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\LabPractice1\LabPractice1\obj\Debug\net6.0\LabPractice1.AssemblyInfoInputs.cache
+D:\PRN211\LabPractice1\LabPractice1\obj\Debug\net6.0\LabPractice1.AssemblyInfo.cs
+D:\PRN211\LabPractice1\LabPractice1\obj\Debug\net6.0\LabPractice1.csproj.CoreCompileInputs.cache
+D:\PRN211\LabPractice1\LabPractice1\obj\Debug\net6.0\LabPractice1.dll
+D:\PRN211\LabPractice1\LabPractice1\obj\Debug\net6.0\refint\LabPractice1.dll
+D:\PRN211\LabPractice1\LabPractice1\obj\Debug\net6.0\LabPractice1.pdb
+D:\PRN211\LabPractice1\LabPractice1\obj\Debug\net6.0\LabPractice1.genruntimeconfig.cache
+D:\PRN211\LabPractice1\LabPractice1\obj\Debug\net6.0\ref\LabPractice1.dll
