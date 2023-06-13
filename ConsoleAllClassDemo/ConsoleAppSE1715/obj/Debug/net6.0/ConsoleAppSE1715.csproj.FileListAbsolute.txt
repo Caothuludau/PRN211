@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\bin\Debug\net6.0\ConsoleAppSE1715.exe
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\bin\Debug\net6.0\ConsoleAppSE1715.deps.json
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\bin\Debug\net6.0\ConsoleAppSE1715.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\bin\Debug\net6.0\ConsoleAppSE1715.dll
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\bin\Debug\net6.0\ConsoleAppSE1715.pdb
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\obj\Debug\net6.0\ConsoleAppSE1715.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\obj\Debug\net6.0\ConsoleAppSE1715.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\obj\Debug\net6.0\ConsoleAppSE1715.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\obj\Debug\net6.0\ConsoleAppSE1715.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\obj\Debug\net6.0\ConsoleAppSE1715.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\obj\Debug\net6.0\ConsoleAppSE1715.dll
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\obj\Debug\net6.0\refint\ConsoleAppSE1715.dll
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\obj\Debug\net6.0\ConsoleAppSE1715.pdb
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\obj\Debug\net6.0\ConsoleAppSE1715.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ConsoleAppSE1715\obj\Debug\net6.0\ref\ConsoleAppSE1715.dll

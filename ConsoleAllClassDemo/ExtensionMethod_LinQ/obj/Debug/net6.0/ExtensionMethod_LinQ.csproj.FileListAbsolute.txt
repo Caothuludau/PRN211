@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\bin\Debug\net6.0\ExtensionMethod_LinQ.exe
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\bin\Debug\net6.0\ExtensionMethod_LinQ.deps.json
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\bin\Debug\net6.0\ExtensionMethod_LinQ.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\bin\Debug\net6.0\ExtensionMethod_LinQ.dll
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\bin\Debug\net6.0\ExtensionMethod_LinQ.pdb
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\obj\Debug\net6.0\ExtensionMethod_LinQ.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\obj\Debug\net6.0\ExtensionMethod_LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\obj\Debug\net6.0\ExtensionMethod_LinQ.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\obj\Debug\net6.0\ExtensionMethod_LinQ.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\obj\Debug\net6.0\ExtensionMethod_LinQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\obj\Debug\net6.0\ExtensionMethod_LinQ.dll
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\obj\Debug\net6.0\refint\ExtensionMethod_LinQ.dll
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\obj\Debug\net6.0\ExtensionMethod_LinQ.pdb
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\obj\Debug\net6.0\ExtensionMethod_LinQ.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\ExtensionMethod_LinQ\obj\Debug\net6.0\ref\ExtensionMethod_LinQ.dll

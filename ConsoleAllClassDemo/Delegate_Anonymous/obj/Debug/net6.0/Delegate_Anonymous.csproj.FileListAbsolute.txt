@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\bin\Debug\net6.0\Delegate_Anonymous.exe
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\bin\Debug\net6.0\Delegate_Anonymous.deps.json
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\bin\Debug\net6.0\Delegate_Anonymous.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\bin\Debug\net6.0\Delegate_Anonymous.dll
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\bin\Debug\net6.0\Delegate_Anonymous.pdb
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\obj\Debug\net6.0\Delegate_Anonymous.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\obj\Debug\net6.0\Delegate_Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\obj\Debug\net6.0\Delegate_Anonymous.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\obj\Debug\net6.0\Delegate_Anonymous.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\obj\Debug\net6.0\Delegate_Anonymous.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\obj\Debug\net6.0\Delegate_Anonymous.dll
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\obj\Debug\net6.0\refint\Delegate_Anonymous.dll
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\obj\Debug\net6.0\Delegate_Anonymous.pdb
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\obj\Debug\net6.0\Delegate_Anonymous.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Delegate_Anonymous\obj\Debug\net6.0\ref\Delegate_Anonymous.dll

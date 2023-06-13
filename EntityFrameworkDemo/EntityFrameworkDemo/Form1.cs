@@ -16,6 +16,22 @@ namespace EntityFrameworkDemo
         {
             dataGridView1.Columns.Clear();
             dataGridView1.DataSource = _context.Cars.ToList();
+
+            DataGridViewButtonColumn btnEdit = new DataGridViewButtonColumn
+            {
+                Text = "Edit",
+                Name = "Edit",
+                UseColumnTextForButtonValue = true,
+            };
+            dataGridView1.Columns.Add(btnEdit);
+
+            DataGridViewButtonColumn btnDelete = new DataGridViewButtonColumn
+            {
+                Text = "Delete",
+                Name = "Delete",
+                UseColumnTextForButtonValue = true,
+            };
+            dataGridView1.Columns.Add(btnDelete);
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\bin\Debug\net6.0\Excerse_01.exe
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\bin\Debug\net6.0\Excerse_01.deps.json
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\bin\Debug\net6.0\Excerse_01.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\bin\Debug\net6.0\Excerse_01.dll
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\bin\Debug\net6.0\Excerse_01.pdb
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\obj\Debug\net6.0\Excerse_01.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\obj\Debug\net6.0\Excerse_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\obj\Debug\net6.0\Excerse_01.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\obj\Debug\net6.0\Excerse_01.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\obj\Debug\net6.0\Excerse_01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\obj\Debug\net6.0\Excerse_01.dll
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\obj\Debug\net6.0\refint\Excerse_01.dll
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\obj\Debug\net6.0\Excerse_01.pdb
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\obj\Debug\net6.0\Excerse_01.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\obj\Debug\net6.0\ref\Excerse_01.dll
+C:\Users\DELL\source\repos\ConsoleAppSE1715\Excerse_01\bin\Debug\net6.0\TextFile1.txt
