@@ -163,3 +163,8 @@ namespace DemoBDConnect
         }
     }
 }
+
+/*
+List<Boolean> isAbsents = formStudents
+    .Select(std => rcbs.Any(rcb => std.StudentId == rcb.studentId && rcb.isAbsent))
+    .ToList();*/

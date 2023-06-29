@@ -1,0 +1,17 @@
+﻿@using ASPMVC_App.Models
+@model Course
+@{
+}
+
+<!doctype html>
+<html>
+<head>
+    <title>Detail </title>
+</head>
+<body>
+    <p>@Model.CourseCode</p>
+    <p>@Model.CourseDescription</p>
+    <p>@ViewBag.instructor.InstructorFirstName @ViewBag.instructor.InstructorMidName @ViewBag.instructor.InstructorLastName</p>
+    <p>@ViewData["subjectName"]</p>
+</body>
+</html>

@@ -68,6 +68,7 @@
             comboBox_Major.Size = new Size(245, 33);
             comboBox_Major.TabIndex = 0;
             comboBox_Major.Text = "Tất cả";
+            comboBox_Major.SelectedIndexChanged += comboBox_Major_SelectedIndexChanged;
             // 
             // label_Major
             // 

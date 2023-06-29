@@ -2,7 +2,9 @@ using DemoBDConnect.DAL;
 using DemoBDConnect.Model;
 using Lab2.DAL;
 using Lab2.Model;
+using System;
 using System.Collections.Generic;
+using System.Web;
 
 namespace Lab2
 {
@@ -124,33 +126,33 @@ namespace Lab2
 
         private void button_Update_Click(object sender, EventArgs e)
         {
-            if (textBox_ID.Text != null && textBox_Name != null && (radioButton_Female.Checked || radioButton_Male.Checked)
-                && comboBox_MajorInTable.SelectedItem != null && listBox_Scholarship.SelectedItem != null)
+            if (textBox_ID.Text != null && textBox_Name.Text != null || comboBox_Major.Text != null || listBox_Scholarship.Text != null )
             {
-                string studentId = textBox_ID.Text;
+                string id = textBox_ID.Text;
                 string name = textBox_Name.Text;
-                string gender = "";
-                if (radioButton_Female.Checked)
-                {
-                    gender = "Female";
-                }
-                else if (radioButton_Male.Checked)
+                string gender;
+                if (radioButton_Male.Checked)
                 {
                     gender = "Male";
+                }
+                else
+                {
+                    gender = "Female";
                 }
                 DateTime dob = dateTimePicker_DOB.Value;
                 string major = ((Major)comboBox_MajorInTable.SelectedItem).MajorCode;
                 float scholarship = (float)listBox_Scholarship.SelectedItem;
-                bool isActive = checkBox_Active.Checked;
+                bool active = checkBox_Active.Checked;
+                Student std = new Student(id, name, gender, dob, major, scholarship, active);
 
-                Student studentToUpdate = new Student(studentId, name, gender, dob, major, scholarship, isActive);
-
-                if (MessageBox.Show("Do you really want to update student " + textBox_ID.Text,
-                    "Confirm", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                if (MessageBox.Show("Do you really want to update this student?", "Confirm", MessageBoxButtons.YesNo) == DialogResult.Yes)
                 {
-                    StudentDao.UpdateStudent(studentToUpdate);
+                    StudentDao.UpdateStudent(std);
+                    MessageBox.Show("Student " + id + "update successfully");
                 }
+
             }
+
             Form1_Load(null, null);
         }
 
@@ -185,6 +187,16 @@ namespace Lab2
             comboBox_MajorInTable.Text = "";
             listBox_Scholarship.SelectedIndex = -1;
             checkBox_Active.Checked = false;
+        }
+
+        private void comboBox_Major_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            ComboBox comboBox = (ComboBox)sender;
+            Major major = (Major)comboBox.SelectedItem;
+
+            List<Student> students = StudentDao.GetStudentByMajor(major);
+            dataGridView1.DataSource = students;
+
         }
     }
 }

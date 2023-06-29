@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRN211\\Exer_1\\Exer_1\\Exer_1.csproj": {}
+    "D:\\PRN211\\Practice exercise\\StudentManage_CSL\\Exer_1\\Exer_1.csproj": {}
   },
   "projects": {
-    "D:\\PRN211\\Exer_1\\Exer_1\\Exer_1.csproj": {
+    "D:\\PRN211\\Practice exercise\\StudentManage_CSL\\Exer_1\\Exer_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN211\\Exer_1\\Exer_1\\Exer_1.csproj",
+        "projectUniqueName": "D:\\PRN211\\Practice exercise\\StudentManage_CSL\\Exer_1\\Exer_1.csproj",
         "projectName": "Exer_1",
-        "projectPath": "D:\\PRN211\\Exer_1\\Exer_1\\Exer_1.csproj",
+        "projectPath": "D:\\PRN211\\Practice exercise\\StudentManage_CSL\\Exer_1\\Exer_1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN211\\Exer_1\\Exer_1\\obj\\",
+        "outputPath": "D:\\PRN211\\Practice exercise\\StudentManage_CSL\\Exer_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,8 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {

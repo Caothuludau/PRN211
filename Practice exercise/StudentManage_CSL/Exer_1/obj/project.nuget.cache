@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i38PuPer+bT2bVUfW7P5iCEWfglvphWkKZbjkb+P2Mm966QvWKzelOsoz+JLepiLwTQNZyuvYfjWUlTsXF0ZLQ==",
+  "dgSpecHash": "fmEzvdHnczGUlYXvX/h8m8GmvGJQFybJNOuvRqhnD3h2bMdN15NOfV/mEBalGVlYRB8iYPdkHyWgqnhP4ImWmg==",
   "success": true,
-  "projectFilePath": "D:\\PRN211\\Exer_1\\Exer_1\\Exer_1.csproj",
+  "projectFilePath": "D:\\PRN211\\Practice exercise\\StudentManage_CSL\\Exer_1\\Exer_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

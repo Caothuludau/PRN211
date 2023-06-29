@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Windows.Forms;
+using Lab2.Model;
 
 namespace DemoBDConnect.DAL
 {
@@ -159,6 +160,41 @@ namespace DemoBDConnect.DAL
             active.Value = std.Active;
             int result = Dao.InsertBySql(sql, stdId, name, gender, dob, major, scholarship, active);
             return result;
+        }
+
+        public static List<Student> GetStudentByMajor(Major major)
+        {
+            string sql = "select * from Student where major = @major";
+            SqlParameter parameter1 = new SqlParameter("@major", DbType.String);
+            parameter1.Value = major.MajorCode;
+
+            DataTable dt = Dao.GetDataBySql(sql, parameter1);
+            List<Student> students = new List<Student>();
+
+            string? gender;
+            foreach (DataRow dr in dt.Rows)
+            {
+                if (Convert.ToBoolean(dr["Gender"]))
+                {
+                    gender = "Female";
+                }
+                else
+                {
+                    gender = "Male";
+                }
+                students.Add(new Student(
+                    //Convert.ToInt32(dr["StudentId"]),
+
+                    dr["Id"].ToString(),
+                    dr["Name"].ToString(),
+                    gender,
+                    Convert.ToDateTime(dr["Dob"]),
+                    dr["Major"].ToString(),
+                    Convert.ToInt16(dr["Scholarship"]),
+                    Convert.ToBoolean(dr["Active"])
+                    ));
+            }
+            return students;
         }
     }
 }
